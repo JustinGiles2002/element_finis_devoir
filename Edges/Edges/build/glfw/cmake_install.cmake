@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jgile/OneDrive/Documents/inge_civil/bac_3/element_finis/Edges/Edges/glfw
+# Install script for directory: C:/Users/Home/Desktop/element_finis_devoir/Edges/Edges/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/jgile/OneDrive/Documents/inge_civil/bac_3/element_finis/Edges/Edges/build/glfw/src/cmake_install.cmake")
+  include("C:/Users/Home/Desktop/element_finis_devoir/Edges/Edges/build/glfw/src/cmake_install.cmake")
 
 endif()
 

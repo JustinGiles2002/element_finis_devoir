@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jgile/OneDrive/Documents/inge_civil/bac_3/element_finis/Edges/Edges/glfw/src
+# Install script for directory: C:/Users/Home/Desktop/element_finis_devoir/Edges/Edges/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
